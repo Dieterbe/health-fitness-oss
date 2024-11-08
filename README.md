@@ -15,3 +15,4 @@ overview of interesting health and fitness OSS/FOSS apps and tools
 | FitTrackee | Web application allowing tracking of outdoor activities (workouts) from GPX files, with data on your own server| [GitHub](https://github.com/SamR1/FitTrackee)      |       AGPL-3  |
 | Stronk | Web app for exercise tracking, mainly geared towards Jim Wendler's 5/3/1 | [GitHub](https://github.com/bcspragu/stronk) | MIT |
 | OpenTracks | Navigate, log, analyze outdoor workouts, with gadget integrations | [GitHub](https://github.com/OpenTracksApp/OpenTracks) | apache-2 |
+| OutRun | Outdoor workout (walking, cycling, running, ...) logger/viewer for iOS (Swift)| [GitHub](https://github.com/timfraedrich/OutRun) | GPL-3 |
